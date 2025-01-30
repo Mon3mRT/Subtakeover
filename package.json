@@ -1,0 +1,30 @@
+{
+  "name": "heroku-html-proof",
+  "version": "1.0.0",
+  "description": "Proof of subdomain takeover",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "14.x"
+  }
+}
+{
+  "name": "heroku-html-proof",
+  "version": "1.0.0",
+  "description": "Proof of subdomain takeover",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "14.x"
+  }
+}
